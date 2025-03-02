@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bird.png</file>
+        <file>yellow.png</file>
+        <file>qie.png</file>
+        <file>purple.webp</file>
+    </qresource>
+</RCC>

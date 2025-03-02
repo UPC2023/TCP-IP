@@ -1,0 +1,21 @@
+/* 设置主窗口的背景颜色 */
+QWidget {
+    background-color: rgb(255, 229, 234);
+}
+
+/* 设置名为head的QLabel的背景图片 */
+QLabel#head {
+    image: url(:/bird.png);
+}
+
+/* 设置所有QPushButton中间字体颜色为粉色 */
+QPushButton {
+    color: red;
+}
+QTextEdit, QLineEdit {
+    background-color: white;
+}
+
+QListWidget#listWidget{
+background-color: white;
+}

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>s1.qss</file>
+        <file>s2.qss</file>
+    </qresource>
+</RCC>
